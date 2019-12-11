@@ -1,0 +1,23 @@
+{
+  "name": "201912xx_cloud-based-app_aws-ses-intro_bc",
+  "version": "1.0.0",
+  "description": "Introduction to AWS simple email service using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "b colantonio",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BColantonio/201912xx_cloud-based-app_aws-ses-intro_bc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BColantonio/201912xx_cloud-based-app_aws-ses-intro_bc/issues"
+  },
+  "homepage": "https://github.com/BColantonio/201912xx_cloud-based-app_aws-ses-intro_bc#readme",
+  "dependencies": {
+    "aws-sdk": "^2.587.0"
+  }
+}
