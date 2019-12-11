@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef43c508-0acc-4d68-b8e9-9e79d4cfcd85" name="Default Changelist" comment="" />
+    <list default="true" id="ef43c508-0acc-4d68-b8e9-9e79d4cfcd85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sms/sns_getsmstype.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +16,18 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UptaF9aXAmbjeswV6YoGZd2k9O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,10 +35,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/topic" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -47,11 +68,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576065425353</updated>
-      <workItem from="1576065426620" duration="317000" />
+      <workItem from="1576065426620" duration="4762000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1007" y="362" width="868" height="596" key="find.popup" timestamp="1576070388143">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1007" y="362" width="868" height="596" key="find.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1576070388143" />
   </component>
 </project>
